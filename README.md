@@ -14,11 +14,11 @@ This repository can be added as an **extension** in MakeCode.
 
 ## Edit this project
 
-To edit this repository in MakeCode.
+##To edit this repository in MakeCode.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/xxocean-feesh-dudexx/annoying-dogs-side-adventures** and click import
+##* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
+##* click on **Import** then click on **Import URL**
+##* paste **https://github.com/xxocean-feesh-dudexx/annoying-dogs-side-adventures** and click import
 
 #### Metadata (used for search, rendering)
 
